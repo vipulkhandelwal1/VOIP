@@ -15,4 +15,4 @@ Steps to implement this :-
 
 
 NOTE:-(i)Make sure to use the python-3.12.2 interpreter as there can some issue while using "PyAudio"
-      (ii)The client(different_system and on_my_system) is the same(A duplicate).
+  (ii)The client(different_system and on_my_system) is the same(A duplicate).
